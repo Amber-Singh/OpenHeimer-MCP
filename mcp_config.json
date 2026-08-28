@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "drift": {
+      "command": "python",
+      "args": ["server_drift.py"]
+    },
+    "sql_generator": {
+      "command": "python",
+      "args": ["server_sql_generator.py"]
+    },
+    "database_debugger": {
+      "command": "python",
+      "args": ["server_debugger.py"]
+    }
+  }
+}
